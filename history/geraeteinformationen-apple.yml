@@ -1,7 +1,7 @@
 url: $DEVICE_INFO_APPLE
 status: down
-code: 400
-responseTime: 117
-lastUpdated: 2023-04-29T19:40:11.476Z
+code: 404
+responseTime: 91
+lastUpdated: 2023-04-29T19:45:35.453Z
 startTime: Sat Apr 29 2023 19:27:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
