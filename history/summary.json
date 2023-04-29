@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.repair-central.de.ico",
     "slug": "repair-central",
     "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
-    "time": 543,
-    "timeDay": 543,
-    "timeWeek": 543,
-    "timeMonth": 543,
-    "timeYear": 543,
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
+    "time": 576,
+    "timeDay": 576,
+    "timeWeek": 576,
+    "timeMonth": 576,
+    "timeYear": 576,
     "dailyMinutesDown": {
-      "2023-04-29": 14
+      "2023-04-29": 28
     }
   }
 ]
