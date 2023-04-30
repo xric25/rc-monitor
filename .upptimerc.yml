@@ -9,15 +9,7 @@ sites:
     url: $DIAG_PROCESS_MOBILECONFIG   # When a new device is enrolled for diagnostics and the serial number is read. (iOS only)
   - name: "Eigene Zahlungsübersicht"
     url: $COMPANY_PAYMENT_HISTORY     # The company's payment history for the license costs
-  - name: "Geräteinformationen (Apple)"
-    method: POST
-    url: $DEVICE_INFO_APPLE           # Device Informations (Apple)
-    expectedStatusCodes:
-      - 400
-    headers:
-      - "Content-Type: application/json"
-    body: '{ "authkey": "", "serial": "" }'
-  - name: "Geräteinformationen *abgesetzt*"
+  - name: "Geräteinformationen"
     url: $DEVICE_INFO                 # Device Information (discontinued)
   - name: "TradeIn"
     url: $TRADEIN_PRICE               # Get TradeIn market price for a specific device
