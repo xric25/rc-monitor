@@ -1,0 +1,119 @@
+# Change these first
+owner: xric25 # Your GitHub organization or username, where this repository lives
+repo: rc-monitor # The name of this repository
+
+sites:
+  - name: "App Download"
+    url: https://app.repair-central.de/
+  - name: "iOS Diagnose Setup"
+    url: $DIAG_PROCESS_MOBILECONFIG   # When a new device is enrolled for diagnostics and the serial number is read. (iOS only)
+  - name: "Eigene Zahlungsübersicht"
+    url: $COMPANY_PAYMENT_HISTORY     # The company's payment history for the license costs
+  - name: "Geräteinformationen (Apple)"
+    method: POST
+    url: $DEVICE_INFO_APPLE           # Device Informations (Apple)
+    expectedStatusCodes:
+      - 400
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "authkey": "", "serial": "" }'
+  - name: "Geräteinformationen *abgesetzt*"
+    url: $DEVICE_INFO                 # Device Information (discontinued)
+  - name: "TradeIn"
+    url: $TRADEIN_PRICE               # Get TradeIn market price for a specific device
+  - name: "Phonecheck"
+    url: $PHONECHECK                  # Get diagnostic data from Phonecheck
+
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  # cname: demo.upptime.js.org
+  baseUrl: /rc-monitor
+  theme: night
+  # favicon: https://uploads-ssl.webflow.com/6293da59e5ab0b2b27fedc10/6293f3e774c40646d5f9dd97_RepairCentralAppIconPng-p-500.png
+  logoUrl: https://uploads-ssl.webflow.com/6293da59e5ab0b2b27fedc10/6293f3e774c40646d5f9dd97_RepairCentralAppIconPng-p-500.png
+  name: "RepairCentral :: Status"
+  introTitle: "**Status-Monitor** für alle Dienste und Anwendungen von Repair Central."
+  introMessage: "Einige Probleme, die nur einen kleinen Prozentsatz von Nutzern betreffen, werden hier möglicherweise nicht wiedergegeben."
+  navbar:
+    - title: Status
+      href: https://$OWNER.github.io/$REPO/
+    - title: Web
+      href: https://www.repair-central.de/
+    #- title: GitHub
+    #  href: https://github.com/$OWNER/$REPO
+  metaTags:
+    - name: "robots"
+      content: "noindex"
+
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
+
+#commitMessages:
+#  readmeContent: ":pencil: Update summary in README [skip ci] [upptime]"
+#  summaryJson: ":card_file_box: Update status summary [skip ci] [upptime]"
+#  statusChange: "$EMOJI $SITE_NAME is $STATUS ($RESPONSE_CODE in $RESPONSE_TIME ms) [skip ci] [upptime]"
+#  graphsUpdate: ":bento: Update graphs [skip ci] [upptime]"
+
+i18n:
+  activeIncidents: Aktive Ausfälle
+  allSystemsOperational: Alle Systeme sind einsatzbereit
+  incidentReport: "Ausfall #$NUMBER ansehen →"
+  activeIncidentSummary: Geöffnet $DATE mit $POSTS kommentaren
+  incidentTitle: Ausfall $NUMBER Details
+  incidentDetails: Ausfall Details
+  incidentFixed: Behoben
+  incidentOngoing: Laufend
+  incidentOpenedAt: Geöffnet am
+  incidentClosedAt: Geschlossen am
+  incidentViewOnGitHub: Ausfall auf GitHub ansehen
+  incidentCommentSummary: Kommentar am $DATE von $AUTHOR
+  incidentBack: ← Zurück
+  pastIncidents: Vergangene Ausfälle
+  pastIncidentsResolved: Behoben in $MINUTES minuten mit $POSTS kommentaren
+  liveStatus: Live Status
+  overallUptime: "Gesamte Betriebszeit: $UPTIME"
+  overallUptimeTitle: Gesamte Betriebszeit
+  averageResponseTime: "Durchschnittliche Reaktionszeit: $TIMEms"
+  averageResponseTimeTitle: Durchschnittliche Reaktionszeit
+  sevelDayResponseTime: 7-tage Reaktionszeit
+  responseTimeMs: Reaktionszeit (ms)
+  up: Keine bekannten Probleme
+  down: Ausfall
+  degraded: Eingeschränkt
+  ms: ms
+  loading: Lädt
+  navGitHub: GitHub
+  footer: © 2023 Copyright Epic Retail Deutschland
+  rateLimitExceededTitle: Rate limit exceeded
+  rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
+  rateLimitExceededWhatDoesErrorMean: What does this error mean?
+  rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
+  rateLimitExceededErrorHowCanFix: How can I fix it?
+  rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
+  rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
+  rateLimitExceededHasSet: You have a personal access token set.
+  rateLimitExceededRemoveToken: Remove token
+  rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  rateLimitExceededCopyPastePAT: Copy and paste your token
+  rateLimitExceededSaveToken: Save token
+  errorTitle: An error occurred
+  errorIntro: An error occurred in trying to get the latest status details.
+  errorText: You can try again in a few moments.
+  errorHome: Go to the homepage
+  pastScheduledMaintenance: Past Scheduled Maintenance
+  scheduledMaintenance: Scheduled Maintenance
+  scheduledMaintenanceSummaryStarted: Started at $DATE for $DURATION minutes
+  scheduledMaintenanceSummaryStarts: Starts at $DATE for $DURATION minutes
+  startedAt: Started at
+  startsAt: Starts at
+  duration: Duration
+  durationMin: $DURATION minutes
+  incidentCompleted: Completed
+  incidentScheduled: Scheduled
+  duration24H: 24h
+  duration7D: 7d
+  duration30D: 30d
+  duration1Y: 1y
+  durationAll: alle
+
