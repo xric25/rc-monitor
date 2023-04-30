@@ -27,7 +27,6 @@ status-website:
   name: "RepairCentral :: Status"
   introTitle: "**Status-Monitor** für alle Dienste und Anwendungen von Repair Central."
   introMessage: "Einige Probleme, die nur einen kleinen Prozentsatz von Nutzern betreffen, werden hier möglicherweise nicht wiedergegeben."
-  skipDescriptionUpdate: true
   navbar:
     - title: Status
       href: https://$OWNER.github.io/$REPO/
@@ -42,11 +41,13 @@ status-website:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
+skipDescriptionUpdate: true
+
 commitMessages:
   readmeContent: ":pencil: Update README [skip ci] [upptime]"
   summaryJson: ":pencil: Update HISTORY [skip ci] [upptime]"
   statusChange: "$EMOJI $SITE_NAME is $STATUS ($RESPONSE_CODE in $RESPONSE_TIME ms) [skip ci] [upptime]"
-  graphsUpdate: ":bento: Update GRAPHS [skip ci] [upptime]"
+  graphsUpdate: ":pencil: Update GRAPHS [skip ci] [upptime]"
 
 i18n:
   activeIncidents: Aktive Ausfälle
