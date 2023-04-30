@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "geraeteinformationen-apple",
     "status": "up",
-    "uptime": "94.14%",
-    "uptimeDay": "94.14%",
-    "uptimeWeek": "94.14%",
-    "uptimeMonth": "94.14%",
-    "uptimeYear": "94.14%",
+    "uptime": "94.89%",
+    "uptimeDay": "94.89%",
+    "uptimeWeek": "94.89%",
+    "uptimeMonth": "94.89%",
+    "uptimeYear": "94.89%",
     "time": 112,
     "timeDay": 112,
     "timeWeek": 112,
     "timeMonth": 112,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2023-04-30": 52
+      "2023-04-30": 45
     }
   },
   {
