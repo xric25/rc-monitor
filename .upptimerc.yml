@@ -10,7 +10,7 @@ sites:
   - name: "Eigene Zahlungsübersicht"
     url: $COMPANY_PAYMENT_HISTORY     # The company's payment history for the license costs
   - name: "Geräteinformationen"
-    url: $DEVICE_INFO                 # Device Information (discontinued)
+    url: $DEVICE_INFO                 # Device Information (Apple, Samsung etc.)
   - name: "TradeIn"
     url: $TRADEIN_PRICE               # Get TradeIn market price for a specific device
   - name: "Phonecheck"
