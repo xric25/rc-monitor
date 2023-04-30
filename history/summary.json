@@ -58,20 +58,19 @@
     "url": "$DEVICE_INFO_APPLE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "geraeteinformationen-apple",
-    "status": "up",
-    "uptime": "55.68%",
-    "uptimeDay": "55.68%",
-    "uptimeWeek": "55.68%",
-    "uptimeMonth": "55.68%",
-    "uptimeYear": "55.68%",
-    "time": 112,
-    "timeDay": 112,
-    "timeWeek": 112,
-    "timeMonth": 112,
-    "timeYear": 112,
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 111,
+    "timeDay": 111,
+    "timeWeek": 111,
+    "timeMonth": 111,
+    "timeYear": 111,
     "dailyMinutesDown": {
-      "2023-04-30": 200,
-      "2023-04-29": 134
+      "2023-04-30": 0
     }
   },
   {
