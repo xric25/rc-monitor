@@ -20,7 +20,8 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: /rc-monitor
+  #baseUrl: /rc-monitor
+  cname: status.repair-central.de
   theme: night
   # favicon: https://uploads-ssl.webflow.com/6293da59e5ab0b2b27fedc10/6293f3e774c40646d5f9dd97_RepairCentralAppIconPng-p-500.png
   logoUrl: https://uploads-ssl.webflow.com/6293da59e5ab0b2b27fedc10/6293f3e774c40646d5f9dd97_RepairCentralAppIconPng-p-500.png
