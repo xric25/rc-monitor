@@ -30,7 +30,8 @@ status-website:
   introMessage: "Einige Probleme, die nur einen kleinen Prozentsatz von Nutzern betreffen, werden hier möglicherweise nicht wiedergegeben."
   navbar:
     - title: Status
-      href: https://$OWNER.github.io/$REPO/
+      #href: https://$OWNER.github.io/$REPO/
+      href: https://status.repair-central.de
     - title: Web
       href: https://www.repair-central.de/
     #- title: GitHub
