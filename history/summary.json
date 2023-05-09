@@ -4,97 +4,107 @@
     "url": "https://app.repair-central.de/",
     "icon": "https://icons.duckduckgo.com/ip3/app.repair-central.de.ico",
     "slug": "app-download",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 760,
     "timeDay": 1001,
-    "timeWeek": 738,
+    "timeWeek": 747,
     "timeMonth": 760,
     "timeYear": 760,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-09": 0
+    }
   },
   {
     "name": "iOS Diagnose Setup",
     "url": "$DIAG_PROCESS_MOBILECONFIG",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "i-os-diagnose-setup",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 755,
     "timeDay": 969,
-    "timeWeek": 722,
+    "timeWeek": 741,
     "timeMonth": 755,
     "timeYear": 755,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-09": 0
+    }
   },
   {
     "name": "Eigene Zahlungsübersicht",
     "url": "$COMPANY_PAYMENT_HISTORY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eigene-zahlungsuebersicht",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 723,
     "timeDay": 867,
-    "timeWeek": 688,
+    "timeWeek": 725,
     "timeMonth": 723,
     "timeYear": 723,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-09": 0
+    }
   },
   {
     "name": "Geräteinformationen",
     "url": "$DEVICE_INFO",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "geraeteinformationen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 604,
     "timeDay": 227,
-    "timeWeek": 915,
+    "timeWeek": 1005,
     "timeMonth": 604,
     "timeYear": 604,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-09": 0
+    }
   },
   {
     "name": "TradeIn",
     "url": "$TRADEIN_PRICE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "trade-in",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 616,
     "timeDay": 761,
-    "timeWeek": 731,
+    "timeWeek": 725,
     "timeMonth": 616,
     "timeYear": 616,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-09": 0
+    }
   },
   {
     "name": "Phonecheck",
     "url": "$PHONECHECK",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "phonecheck",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -102,9 +112,11 @@
     "uptimeYear": "100.00%",
     "time": 1263,
     "timeDay": 1202,
-    "timeWeek": 1710,
+    "timeWeek": 1782,
     "timeMonth": 1263,
     "timeYear": 1263,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-09": 0
+    }
   }
 ]
