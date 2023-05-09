@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.repair-central.de.ico",
     "slug": "app-download",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 760,
-    "timeDay": 1001,
-    "timeWeek": 747,
-    "timeMonth": 760,
-    "timeYear": 760,
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 756,
+    "timeDay": 832,
+    "timeWeek": 738,
+    "timeMonth": 756,
+    "timeYear": 756,
     "dailyMinutesDown": {
-      "2023-05-09": 10
+      "2023-05-09": 0
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "i-os-diagnose-setup",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.87%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 755,
     "timeDay": 969,
     "timeWeek": 741,
     "timeMonth": 755,
     "timeYear": 755,
     "dailyMinutesDown": {
-      "2023-05-09": 10
+      "2023-05-09": 19
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "eigene-zahlungsuebersicht",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.87%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 723,
     "timeDay": 867,
     "timeWeek": 725,
     "timeMonth": 723,
     "timeYear": 723,
     "dailyMinutesDown": {
-      "2023-05-09": 10
+      "2023-05-09": 19
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "geraeteinformationen",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.86%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 604,
     "timeDay": 227,
     "timeWeek": 1005,
     "timeMonth": 604,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2023-05-09": 10
+      "2023-05-09": 19
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "trade-in",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.87%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 616,
     "timeDay": 761,
     "timeWeek": 725,
     "timeMonth": 616,
     "timeYear": 616,
     "dailyMinutesDown": {
-      "2023-05-09": 10
+      "2023-05-09": 19
     }
   },
   {
@@ -105,18 +105,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "phonecheck",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.87%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 1263,
     "timeDay": 1202,
     "timeWeek": 1782,
     "timeMonth": 1263,
     "timeYear": 1263,
     "dailyMinutesDown": {
-      "2023-05-09": 9
+      "2023-05-09": 19
     }
   }
 ]
