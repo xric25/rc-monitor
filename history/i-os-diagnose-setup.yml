@@ -1,7 +1,7 @@
 url: $DIAG_PROCESS_MOBILECONFIG
 status: up
 code: 200
-responseTime: 881
-lastUpdated: 2023-08-18T23:16:03.824Z
-startTime: Sat Apr 29 2023 19:27:29 GMT+0000 (Coordinated Universal Time)
+responseTime: 513
+lastUpdated: 2023-08-19T23:15:00.596Z
+startTime: 2023-04-29T19:27:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
