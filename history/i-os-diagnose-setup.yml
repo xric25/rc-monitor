@@ -1,7 +1,7 @@
 url: $DIAG_PROCESS_MOBILECONFIG
-status: up
-code: 200
-responseTime: 840
-lastUpdated: 2023-09-07T23:16:47.913Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-09-08T20:46:08.197Z
 startTime: 2023-04-29T19:27:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
