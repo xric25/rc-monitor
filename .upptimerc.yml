@@ -13,7 +13,7 @@ sites:
     url: $DEVICE_INFO                 # Device Information (Apple, Samsung etc.)
   - name: "TradeIn"
     url: $TRADEIN_PRICE               # Get TradeIn market price for a specific device
-  - name: "Phonecheck"
+  - name: "Phonecheck1"
     url: $PHONECHECK                  # Get diagnostic data from Phonecheck
 
 status-website:
