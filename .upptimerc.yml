@@ -11,8 +11,6 @@ sites:
     url: $DEVICE_INFO                 # Device Information (Apple, Samsung etc.)
   - name: "TradeIn"
     url: $TRADEIN_PRICE               # Get TradeIn market price for a specific device
-  - name: "Phonecheck"
-    url: $PHONECHECK                  # Get diagnostic data from Phonecheck (deprecated soon)
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
