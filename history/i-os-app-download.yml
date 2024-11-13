@@ -1,7 +1,7 @@
 url: $APP_DOWNLOAD
-status: down
-code: 521
-responseTime: 19605
-lastUpdated: 2024-11-13T03:01:33.365Z
+status: up
+code: 200
+responseTime: 660
+lastUpdated: 2024-11-13T03:28:18.767Z
 startTime: 2023-11-29T10:13:51.988Z
 generator: Upptime <https://github.com/upptime/upptime>
