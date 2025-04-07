@@ -1,7 +1,7 @@
 url: $TRADEIN_PRICE
-status: up
-code: 200
-responseTime: 137
-lastUpdated: 2025-04-06T23:21:04.564Z
+status: down
+code: 522
+responseTime: 19352
+lastUpdated: 2025-04-07T11:55:12.754Z
 startTime: 2023-04-29T19:40:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
