@@ -1,7 +1,7 @@
 url: $DEVICE_INFO
-status: up
-code: 200
-responseTime: 631
-lastUpdated: 2025-04-26T23:22:48.369Z
+status: down
+code: 521
+responseTime: 231
+lastUpdated: 2025-04-27T02:01:32.031Z
 startTime: 2023-04-30T10:18:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
