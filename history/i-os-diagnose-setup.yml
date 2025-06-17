@@ -1,7 +1,7 @@
 url: $IOS_DIAG
-status: down
-code: 522
-responseTime: 19404
-lastUpdated: 2025-06-16T23:25:57.023Z
+status: up
+code: 200
+responseTime: 476
+lastUpdated: 2025-06-17T08:13:47.964Z
 startTime: 2023-04-29T19:27:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
