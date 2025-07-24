@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "i-os-app-download",
     "status": "up",
-    "uptime": "93.91%",
+    "uptime": "93.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.15%",
-    "time": 1083,
-    "timeDay": 731,
-    "timeWeek": 612,
-    "timeMonth": 543,
+    "uptimeYear": "92.70%",
+    "time": 1082,
+    "timeDay": 410,
+    "timeWeek": 573,
+    "timeMonth": 540,
     "timeYear": 1241,
     "dailyMinutesDown": {
       "2025-06-17": 494,
@@ -49,8 +49,7 @@
       "2024-07-28": 2880,
       "2024-07-27": 2880,
       "2024-07-26": 2880,
-      "2024-07-25": 2880,
-      "2024-07-24": 2880
+      "2024-07-25": 2880
     }
   },
   {
@@ -59,15 +58,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "i-os-diagnose-setup",
     "status": "up",
-    "uptime": "96.71%",
+    "uptime": "96.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.46%",
-    "time": 894,
-    "timeDay": 581,
-    "timeWeek": 590,
-    "timeMonth": 537,
+    "uptimeYear": "94.73%",
+    "time": 893,
+    "timeDay": 407,
+    "timeWeek": 559,
+    "timeMonth": 533,
     "timeYear": 1008,
     "dailyMinutesDown": {
       "2025-06-17": 494,
@@ -103,8 +102,7 @@
       "2024-07-28": 1440,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
-      "2024-07-25": 1440,
-      "2024-07-24": 1440
+      "2024-07-25": 1440
     }
   },
   {
@@ -113,15 +111,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "geraeteinformationen",
     "status": "up",
-    "uptime": "95.45%",
+    "uptime": "95.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "92.14%",
+    "uptimeYear": "92.68%",
     "time": 1112,
-    "timeDay": 854,
-    "timeWeek": 746,
-    "timeMonth": 699,
+    "timeDay": 574,
+    "timeWeek": 724,
+    "timeMonth": 700,
     "timeYear": 1339,
     "dailyMinutesDown": {
       "2025-07-21": 27,
@@ -159,8 +157,7 @@
       "2024-07-28": 2880,
       "2024-07-27": 2880,
       "2024-07-26": 2880,
-      "2024-07-25": 2880,
-      "2024-07-24": 2880
+      "2024-07-25": 2880
     }
   },
   {
@@ -169,15 +166,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "trade-in",
     "status": "up",
-    "uptime": "91.21%",
+    "uptime": "91.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "84.21%",
-    "time": 525,
-    "timeDay": 162,
-    "timeWeek": 144,
-    "timeMonth": 126,
+    "uptimeYear": "84.76%",
+    "time": 524,
+    "timeDay": 96,
+    "timeWeek": 135,
+    "timeMonth": 125,
     "timeYear": 620,
     "dailyMinutesDown": {
       "2025-06-17": 494,
@@ -241,8 +238,7 @@
       "2024-07-28": 2880,
       "2024-07-27": 2880,
       "2024-07-26": 2880,
-      "2024-07-25": 2880,
-      "2024-07-24": 2880
+      "2024-07-25": 2880
     }
   }
 ]
