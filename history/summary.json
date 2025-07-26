@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "i-os-app-download",
     "status": "up",
-    "uptime": "93.93%",
+    "uptime": "93.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.24%",
-    "time": 1082,
-    "timeDay": 424,
-    "timeWeek": 571,
-    "timeMonth": 539,
+    "uptimeYear": "93.79%",
+    "time": 1083,
+    "timeDay": 749,
+    "timeWeek": 606,
+    "timeMonth": 549,
     "timeYear": 1241,
     "dailyMinutesDown": {
       "2025-06-17": 494,
@@ -47,8 +47,7 @@
       "2024-07-30": 2880,
       "2024-07-29": 2880,
       "2024-07-28": 2880,
-      "2024-07-27": 2880,
-      "2024-07-26": 2880
+      "2024-07-27": 2880
     }
   },
   {
@@ -61,11 +60,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.00%",
-    "time": 893,
-    "timeDay": 419,
-    "timeWeek": 558,
-    "timeMonth": 531,
+    "uptimeYear": "95.28%",
+    "time": 894,
+    "timeDay": 758,
+    "timeWeek": 594,
+    "timeMonth": 542,
     "timeYear": 1008,
     "dailyMinutesDown": {
       "2025-06-17": 494,
@@ -99,8 +98,7 @@
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
-      "2024-07-27": 1440,
-      "2024-07-26": 1440
+      "2024-07-27": 1440
     }
   },
   {
@@ -113,11 +111,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "93.23%",
+    "uptimeYear": "93.78%",
     "time": 1112,
-    "timeDay": 605,
-    "timeWeek": 724,
-    "timeMonth": 700,
+    "timeDay": 851,
+    "timeWeek": 748,
+    "timeMonth": 708,
     "timeYear": 1338,
     "dailyMinutesDown": {
       "2025-07-21": 27,
@@ -153,8 +151,7 @@
       "2024-07-30": 2880,
       "2024-07-29": 2880,
       "2024-07-28": 2880,
-      "2024-07-27": 2880,
-      "2024-07-26": 2880
+      "2024-07-27": 2880
     }
   },
   {
@@ -163,15 +160,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "trade-in",
     "status": "up",
-    "uptime": "91.23%",
+    "uptime": "91.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.31%",
-    "time": 524,
-    "timeDay": 95,
-    "timeWeek": 135,
-    "timeMonth": 125,
+    "uptimeYear": "85.85%",
+    "time": 523,
+    "timeDay": 161,
+    "timeWeek": 142,
+    "timeMonth": 127,
     "timeYear": 620,
     "dailyMinutesDown": {
       "2025-06-17": 494,
@@ -233,8 +230,7 @@
       "2024-07-30": 2880,
       "2024-07-29": 2880,
       "2024-07-28": 2880,
-      "2024-07-27": 2880,
-      "2024-07-26": 2880
+      "2024-07-27": 2880
     }
   }
 ]
