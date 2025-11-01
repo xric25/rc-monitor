@@ -8,13 +8,13 @@
     "uptime": "94.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "96.76%",
     "time": 1094,
-    "timeDay": 498,
-    "timeWeek": 469,
-    "timeMonth": 528,
-    "timeYear": 1245,
+    "timeDay": 668,
+    "timeWeek": 502,
+    "timeMonth": 525,
+    "timeYear": 1246,
     "dailyMinutesDown": {
       "2025-09-30": 25,
       "2025-06-17": 494,
@@ -42,8 +42,7 @@
       "2024-12-08": 38,
       "2024-11-18": 35,
       "2024-11-13": 27,
-      "2024-11-02": 27,
-      "2024-11-01": 34
+      "2024-11-02": 27
     }
   },
   {
@@ -58,10 +57,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.76%",
     "time": 899,
-    "timeDay": 491,
-    "timeWeek": 438,
-    "timeMonth": 496,
-    "timeYear": 1004,
+    "timeDay": 688,
+    "timeWeek": 472,
+    "timeMonth": 502,
+    "timeYear": 1005,
     "dailyMinutesDown": {
       "2025-06-17": 494,
       "2025-06-16": 1440,
@@ -88,8 +87,7 @@
       "2024-12-08": 38,
       "2024-11-18": 35,
       "2024-11-13": 27,
-      "2024-11-02": 27,
-      "2024-11-01": 34
+      "2024-11-02": 27
     }
   },
   {
@@ -98,16 +96,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "geraeteinformationen",
     "status": "up",
-    "uptime": "95.91%",
+    "uptime": "95.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.93%",
+    "uptimeMonth": "99.17%",
     "uptimeYear": "96.66%",
     "time": 1162,
-    "timeDay": 560,
-    "timeWeek": 617,
-    "timeMonth": 1454,
-    "timeYear": 1394,
+    "timeDay": 824,
+    "timeWeek": 648,
+    "timeMonth": 1460,
+    "timeYear": 1395,
     "dailyMinutesDown": {
       "2025-10-01": 464,
       "2025-09-30": 3,
@@ -139,8 +137,7 @@
       "2024-12-08": 38,
       "2024-11-18": 35,
       "2024-11-13": 27,
-      "2024-11-02": 27,
-      "2024-11-01": 54
+      "2024-11-02": 27
     }
   },
   {
@@ -149,15 +146,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "trade-in",
     "status": "up",
-    "uptime": "92.17%",
+    "uptime": "92.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.83%",
     "time": 521,
-    "timeDay": 112,
-    "timeWeek": 136,
-    "timeMonth": 183,
+    "timeDay": 162,
+    "timeWeek": 145,
+    "timeMonth": 184,
     "timeYear": 627,
     "dailyMinutesDown": {
       "2025-06-17": 494,
@@ -213,8 +210,7 @@
       "2024-12-08": 38,
       "2024-11-18": 35,
       "2024-11-13": 27,
-      "2024-11-02": 27,
-      "2024-11-01": 34
+      "2024-11-02": 27
     }
   }
 ]
