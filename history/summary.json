@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "i-os-app-download",
     "status": "up",
-    "uptime": "95.49%",
+    "uptime": "95.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.84%",
-    "time": 1071,
-    "timeDay": 429,
-    "timeWeek": 555,
-    "timeMonth": 532,
+    "time": 1032,
+    "timeDay": 420,
+    "timeWeek": 517,
+    "timeMonth": 526,
     "timeYear": 1062,
     "dailyMinutesDown": {
       "2025-11-18": 122,
@@ -29,8 +29,7 @@
       "2025-06-10": 719,
       "2025-04-27": 71,
       "2025-04-08": 492,
-      "2025-04-07": 729,
-      "2025-02-23": 29
+      "2025-04-07": 729
     }
   },
   {
@@ -44,10 +43,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.85%",
-    "time": 912,
-    "timeDay": 434,
-    "timeWeek": 567,
-    "timeMonth": 532,
+    "time": 911,
+    "timeDay": 373,
+    "timeWeek": 522,
+    "timeMonth": 523,
     "timeYear": 1041,
     "dailyMinutesDown": {
       "2025-11-18": 106,
@@ -62,8 +61,7 @@
       "2025-06-10": 718,
       "2025-04-27": 71,
       "2025-04-08": 492,
-      "2025-04-07": 727,
-      "2025-02-23": 29
+      "2025-04-07": 727
     }
   },
   {
@@ -78,9 +76,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "97.74%",
     "time": 1266,
-    "timeDay": 605,
-    "timeWeek": 677,
-    "timeMonth": 1276,
+    "timeDay": 586,
+    "timeWeek": 653,
+    "timeMonth": 1269,
     "timeYear": 1374,
     "dailyMinutesDown": {
       "2026-01-31": 22,
@@ -102,8 +100,7 @@
       "2025-05-18": 23,
       "2025-04-27": 71,
       "2025-04-08": 492,
-      "2025-04-07": 726,
-      "2025-02-23": 29
+      "2025-04-07": 726
     }
   },
   {
@@ -112,16 +109,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "trade-in",
     "status": "up",
-    "uptime": "93.03%",
+    "uptime": "93.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.85%",
     "time": 544,
-    "timeDay": 97,
-    "timeWeek": 208,
-    "timeMonth": 229,
-    "timeYear": 670,
+    "timeDay": 279,
+    "timeWeek": 225,
+    "timeMonth": 233,
+    "timeYear": 671,
     "dailyMinutesDown": {
       "2025-11-18": 91,
       "2025-11-08": 37,
@@ -135,8 +132,7 @@
       "2025-06-10": 716,
       "2025-04-27": 71,
       "2025-04-08": 492,
-      "2025-04-07": 725,
-      "2025-02-23": 29
+      "2025-04-07": 725
     }
   }
 ]
