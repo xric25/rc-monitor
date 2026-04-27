@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.08%",
+    "uptimeYear": "98.09%",
     "time": 996,
-    "timeDay": 446,
-    "timeWeek": 520,
+    "timeDay": 465,
+    "timeWeek": 523,
     "timeMonth": 510,
-    "timeYear": 969,
+    "timeYear": 952,
     "dailyMinutesDown": {
       "2025-11-18": 122,
       "2025-11-08": 37,
@@ -26,8 +26,7 @@
       "2025-06-13": 1440,
       "2025-06-12": 1440,
       "2025-06-11": 1440,
-      "2025-06-10": 719,
-      "2025-04-27": 71
+      "2025-06-10": 719
     }
   },
   {
@@ -40,12 +39,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.08%",
+    "uptimeYear": "98.09%",
     "time": 915,
-    "timeDay": 437,
-    "timeWeek": 500,
-    "timeMonth": 537,
-    "timeYear": 939,
+    "timeDay": 426,
+    "timeWeek": 504,
+    "timeMonth": 535,
+    "timeYear": 941,
     "dailyMinutesDown": {
       "2025-11-18": 106,
       "2025-11-08": 37,
@@ -56,8 +55,7 @@
       "2025-06-13": 1440,
       "2025-06-12": 1440,
       "2025-06-11": 1440,
-      "2025-06-10": 718,
-      "2025-04-27": 71
+      "2025-06-10": 718
     }
   },
   {
@@ -66,16 +64,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "geraeteinformationen",
     "status": "up",
-    "uptime": "96.56%",
+    "uptime": "96.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "97.97%",
+    "uptimeYear": "97.98%",
     "time": 1311,
-    "timeDay": 584,
-    "timeWeek": 659,
+    "timeDay": 592,
+    "timeWeek": 663,
     "timeMonth": 1313,
-    "timeYear": 1285,
+    "timeYear": 1287,
     "dailyMinutesDown": {
       "2026-04-18": 56,
       "2026-01-31": 22,
@@ -94,8 +92,7 @@
       "2025-06-12": 1440,
       "2025-06-11": 1440,
       "2025-06-10": 717,
-      "2025-05-18": 23,
-      "2025-04-27": 71
+      "2025-05-18": 23
     }
   },
   {
@@ -104,16 +101,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "trade-in",
     "status": "up",
-    "uptime": "93.43%",
+    "uptime": "93.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.09%",
+    "uptimeYear": "98.10%",
     "time": 556,
-    "timeDay": 98,
-    "timeWeek": 153,
-    "timeMonth": 223,
-    "timeYear": 589,
+    "timeDay": 96,
+    "timeWeek": 152,
+    "timeMonth": 222,
+    "timeYear": 590,
     "dailyMinutesDown": {
       "2025-11-18": 91,
       "2025-11-08": 37,
@@ -124,8 +121,7 @@
       "2025-06-13": 1440,
       "2025-06-12": 1440,
       "2025-06-11": 1440,
-      "2025-06-10": 716,
-      "2025-04-27": 71
+      "2025-06-10": 716
     }
   }
 ]
